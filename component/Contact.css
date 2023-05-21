@@ -1,0 +1,129 @@
+
+
+.pic1{
+              background-image: url("3.png");
+              background-size: cover;
+              background-position: center;
+              background-repeat: no-repeat;
+              height: 1000px;
+              color: white;
+
+}
+ .pic1 h1{
+              font-size: 100px;
+              text-align: center;
+              padding-top: 80px;
+              color: black;
+              font-style: inherit;
+}
+.title{
+              display: flex;
+              flex-direction: row;
+              justify-content: flex-start;
+}
+.pic1 h2{
+              font-size: 100px;
+              
+              padding-top: 100px;
+              padding-left: 150px;
+              color: #e4e1da;
+              font-style: inherit;
+        
+}
+.teleimg{
+              background-image: url("4.png.png");
+              height: 400px;
+              width: 500px;
+              padding: 30px;
+              position: relative;
+              top: -50px;
+              left: 150px;
+
+}
+
+.para{
+              display: flex;
+              justify-content: space-around;
+              position: relative;
+              top: -40px;
+}
+.left{
+              color: #ffd013;
+}
+.middle {
+          height: 300px;
+          width: 2px;
+          background-color: #fff;
+          position: relative;
+          top: -80px;
+
+}
+.registration button{
+              font-size: 20px;
+              padding: 10px 35px;
+              border-radius: 10px;
+              position: relative;
+              top: -10px;
+              background-color: #ffd013;
+}
+.email{
+              display: flex;
+              font-size: 20px;
+}
+.email1{
+              position: relative;
+              top: 26px;
+              
+}
+.phone{
+              display: flex;
+}
+.phone p{
+              font-size: 20px;
+              position: relative;
+              top: -25px;
+}
+.home{
+              display: flex;
+              position: relative;
+              top: -23px;
+}
+.home p{
+              font-size: 20px;
+              position: relative;
+              top: -24px;
+}
+
+.pic2{
+              
+              background-image: url("6.png");
+              background-size: cover;
+              background-position: top;
+              background-repeat: no-repeat;
+              width: 100%;
+              height: 1390px;
+              text-align: center;
+              position: relative;
+              top: -90px;
+}
+.pic2 h1{
+              color: #52365e;
+              font-size: 100px;
+              font-style: oblique;
+              text-transform: capitalize;
+              padding-top: 40px;
+}
+.map{
+              width: 1260px;
+              height: 730px;
+              margin-top: 210px;
+              margin-left: 80pxpx;
+              border-radius: 30px;
+}
+.pic2 input{
+              font-size: 40px;
+              padding: 5px 200px;
+              margin-top: 50px;
+              text-align: center;
+              border-radius: 10px;
+}
